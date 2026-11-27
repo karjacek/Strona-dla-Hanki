@@ -10,6 +10,7 @@
     "test": "node scripts/sprawdz-dane.mjs"
   },
   "dependencies": {
-    "@vercel/functions": "latest"
+    "@vercel/functions": "latest",
+    "@vercel/speed-insights": "^2.1.1"
   }
 }
