@@ -1,0 +1,15 @@
+{
+  "name": "rodzinna-strona",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prywatna strona rodzinna z modułem nauki dla klasy 4",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "galeria": "node scripts/galeria.mjs",
+    "test": "node scripts/sprawdz-dane.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "latest"
+  }
+}

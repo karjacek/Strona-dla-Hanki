@@ -1,0 +1,9 @@
+{
+  "name": "Nasz Rodzinny Kącik",
+  "short_name": "Kącik",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7ff",
+  "theme_color": "#8b5cf6",
+  "icons": [ { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" } ]
+}
